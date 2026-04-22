@@ -1,3 +1,4 @@
+<img width="935" height="340" alt="Screenshot 2026-04-22 114718" src="https://github.com/user-attachments/assets/31637740-fa8f-483e-bee7-74e051a672e4" />
 # 📝 Task Manager (Django CRUD App)
 
 A simple and modern Task Manager web application built with Django.
